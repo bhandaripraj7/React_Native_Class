@@ -4,23 +4,6 @@ import React from 'react';
 import Greeter from './lessons/lesson 2/Greeter';
 
 export default function App() {
- /* return (
-    <View style={styles.container}>
-      <Text style={styles.textDemo}>Hello React Native WOrld!</Text>
-      <Text style={{...styles.textDemo,...styles.someOtherStyle}}>Hello React Native World!</Text>
-      <HelloWorld />
-      <HelloWorld />
-      <HelloWorld />
-      <Greeter name="Bob" />
-      <Greeter name="Alice" />
-    </View>
-  );
-}*/
-/*<View style={{width: 80, height: 80, backgroundColor: "red"}}></View>
-    <View style={{width: 80, height: 80, backgroundColor: "green"}}></View>
-    <View style={{width: 80, height: 80, backgroundColor: "blue"}}></View>
-    <View style={{width: 80, height: 80, backgroundColor: "yellow"}}></View>
-    */
 
 return (
   <View style={styles.container}>
