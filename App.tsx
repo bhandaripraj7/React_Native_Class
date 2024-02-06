@@ -8,7 +8,7 @@ import Assignment1 from './Assignment/Assignment1-1';
 export default function App() {
   return (
     <View style={{ flex: 1, backgroundColor: '#fff' }}>
-      <Assignment2 />
+      <Greeter />
     </View>
   );
 }
